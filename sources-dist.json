@@ -170,6 +170,11 @@
     "icon": "https://raw.githubusercontent.com/Buzze11/ioBroker.atlas-scientific-ezo-i2c/master/admin/atlas-scientific-ezo-i2c.png",
     "type": "hardware"
   },
+  "aurora-nowcast": {
+    "meta": "https://raw.githubusercontent.com/chrmenne/ioBroker.aurora-nowcast/main/io-package.json",
+    "icon": "https://raw.githubusercontent.com/chrmenne/ioBroker.aurora-nowcast/main/admin/aurora-nowcast.png",
+    "type": "weather"
+  },
   "autodarts": {
     "meta": "https://raw.githubusercontent.com/inventwo/ioBroker.autodarts/main/io-package.json",
     "icon": "https://raw.githubusercontent.com/inventwo/ioBroker.autodarts/main/admin/autodarts.svg",
@@ -1931,6 +1936,11 @@
     "icon": "https://raw.githubusercontent.com/ioBroker/ioBroker.opcua/master/admin/opcua.png",
     "type": "protocols"
   },
+  "open-meteo-weather": {
+    "meta": "https://raw.githubusercontent.com/H5N1v2/ioBroker.open-meteo-weather/main/io-package.json",
+    "icon": "https://raw.githubusercontent.com/H5N1v2/ioBroker.open-meteo-weather/main/admin/open-meteo.png",
+    "type": "weather"
+  },
   "opendtu": {
     "meta": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.opendtu/main/io-package.json",
     "icon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.opendtu/main/admin/opendtu.png",
@@ -2145,6 +2155,11 @@
     "meta": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.pollenflug/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.pollenflug/master/admin/pollenflug.png",
     "type": "weather"
+  },
+  "poolcontrol": {
+    "meta": "https://raw.githubusercontent.com/DasBo1975/ioBroker.poolcontrol/main/io-package.json",
+    "icon": "https://raw.githubusercontent.com/DasBo1975/ioBroker.poolcontrol/main/admin/poolcontrol.png",
+    "type": "climate-control"
   },
   "porsche": {
     "meta": "https://raw.githubusercontent.com/TA2k/ioBroker.porsche/master/io-package.json",
@@ -2829,8 +2844,8 @@
     "versionDate": "2019-08-09T20:30:26.824Z"
   },
   "tinymqttbroker": {
-    "meta": "https://raw.githubusercontent.com/HGlab01/ioBroker.tinyMQTTbroker/main/io-package.json",
-    "icon": "https://raw.githubusercontent.com/HGlab01/ioBroker.tinyMQTTbroker/main/admin/tinymqttbroker.png",
+    "meta": "https://raw.githubusercontent.com/HGlab01/ioBroker.tinymqttbroker/main/io-package.json",
+    "icon": "https://raw.githubusercontent.com/HGlab01/ioBroker.tinymqttbroker/main/admin/tinymqttbroker.png",
     "type": "protocols"
   },
   "tinyrx4": {
